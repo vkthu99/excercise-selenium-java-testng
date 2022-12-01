@@ -29,7 +29,7 @@ public class Topic_01_Check_Environment {
 		String loginPageUrl = driver.getCurrentUrl();
 		Assert.assertEquals(loginPageUrl, "https://www.facebook.com/");
 		
-		//Edit
+		
 	}
 
 	@Test
